@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="2450"
+   height="250"
+   viewBox="0 0 1126.9999 115"
+   id="Layer_1"
+   data-name="Layer 1"
+   version="1.1"
+   sodipodi:docname="Logo.svg"
+   inkscape:export-filename="computer-chip-svgrepo-com.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="1.3.2 (091e20ef0f, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.13078125"
+     inkscape:cx="-443.48865"
+     inkscape:cy="-26.762246"
+     inkscape:window-width="1920"
+     inkscape:window-height="731"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <style
+       id="style1">.cls-1{fill:none;stroke:#020202;stroke-miterlimit:10;stroke-width:1.92px;}</style>
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Text"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:53.3071px;font-family:Righteous;-inkscape-font-specification:'Righteous, Normal';fill:#f9f9f9;stroke-width:0.102306"
+       x="126.79362"
+       y="73.292175"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="stroke-width:0.102306"
+         x="126.79362"
+         y="73.292175">Fachinformatiker Prüfungsvorbereitung</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="CPU"
+     transform="matrix(4.2128135,0,0,4.2128135,5.1969835,7.6323178)"
+     style="display:none">
+    <rect
+       class="cls-1"
+       x="2.8800001"
+       y="2.8800001"
+       width="17.25"
+       height="17.25"
+       rx="2.1800001"
+       id="rect1" />
+    <rect
+       class="cls-1"
+       x="6.71"
+       y="6.71"
+       width="9.5799999"
+       height="9.5799999"
+       rx="1.92"
+       id="rect2" />
+    <line
+       class="cls-1"
+       x1="6.71"
+       y1="2.9802322e-08"
+       x2="6.71"
+       y2="1.9200001"
+       id="line2" />
+    <line
+       class="cls-1"
+       x1="11.5"
+       y1="2.9802322e-08"
+       x2="11.5"
+       y2="1.9200001"
+       id="line3" />
+    <line
+       class="cls-1"
+       x1="16.290001"
+       y1="2.9802322e-08"
+       x2="16.290001"
+       y2="1.9200001"
+       id="line4" />
+    <line
+       class="cls-1"
+       x1="6.71"
+       y1="21.08"
+       x2="6.71"
+       y2="23"
+       id="line5" />
+    <line
+       class="cls-1"
+       x1="11.5"
+       y1="21.08"
+       x2="11.5"
+       y2="23"
+       id="line6" />
+    <line
+       class="cls-1"
+       x1="16.290001"
+       y1="21.08"
+       x2="16.290001"
+       y2="23"
+       id="line7" />
+    <line
+       class="cls-1"
+       x1="2.9802322e-08"
+       y1="16.290001"
+       x2="1.9200001"
+       y2="16.290001"
+       id="line8" />
+    <line
+       class="cls-1"
+       x1="2.9802322e-08"
+       y1="11.5"
+       x2="1.9200001"
+       y2="11.5"
+       id="line9" />
+    <line
+       class="cls-1"
+       x1="2.9802322e-08"
+       y1="6.71"
+       x2="1.9200001"
+       y2="6.71"
+       id="line10" />
+    <line
+       class="cls-1"
+       x1="21.08"
+       y1="16.290001"
+       x2="23"
+       y2="16.290001"
+       id="line11" />
+    <line
+       class="cls-1"
+       x1="21.08"
+       y1="11.5"
+       x2="23"
+       y2="11.5"
+       id="line12" />
+    <line
+       class="cls-1"
+       x1="21.08"
+       y1="6.71"
+       x2="23"
+       y2="6.71"
+       id="line13" />
+  </g>
+</svg>
